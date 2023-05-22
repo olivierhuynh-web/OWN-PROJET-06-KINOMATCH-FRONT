@@ -8,9 +8,8 @@
   background: vars.$theme1-primary;
   width: 100%;
   padding-top: 5px;
-  border-top: vars.$theme1-secondary solid 2px;
+  // border-top: vars.$theme1-secondary solid 2px;
   z-index: 2;
-
 
   // Zone du footer
   &__content {
@@ -20,7 +19,6 @@
     align-items: center;
     justify-content: space-between;
     margin: 1rem;
-
 
     // Mentions légales
     &-legal {
